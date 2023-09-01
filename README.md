@@ -1,5 +1,5 @@
 # UAS-Kapsel
-## Project Text Analytics Twitter 
+## SENTIMENT TEXT ANALYSIS TWITTER 
 ## Anggota Tim
 1. Aulia Astika (11180940000013)
 2. Bunga Rizki Sakinah (11180940000016)
